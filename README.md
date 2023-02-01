@@ -7,4 +7,4 @@ Dataset from: [ https://archive.ics.uci.edu/ml/datasets.php?format=mat&task=cla&
 No parametres optimization.
 
 Every info you need about the dataset is present on the previous link. 
-ML algorithms used are PCA, 2 different SVMs, MLP. performance metrics used are **Accuracy, Recall, F1, Precision**.
+ML algorithms used are PCA, 2 different SVMs, MLP. Performance metrics used are **Accuracy, Recall, F1, Precision**.
